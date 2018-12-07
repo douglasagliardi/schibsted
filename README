@@ -1,0 +1,3 @@
+How to run:
+1) Running: java -jar Assessment.jar <folder_with_files>
+2) The operation is the same as exposed on the code challenge (insert the list of words that should be ranked in the response)
